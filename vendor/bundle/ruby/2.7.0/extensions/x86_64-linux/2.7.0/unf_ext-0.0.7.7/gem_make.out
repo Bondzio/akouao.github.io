@@ -1,0 +1,16 @@
+current directory: /home/akouao/Documents/projects/allykouao.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/usr/local/rvm/rubies/ruby-2.7.0/bin/ruby -I /usr/local/rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20200915-1430-1i5c6ri.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/akouao/Documents/projects/allykouao.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /home/akouao/Documents/projects/allykouao.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/akouao/Documents/projects/allykouao.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20200915-1430-1h8lv5m
