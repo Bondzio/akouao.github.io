@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
-importance: 3
+title: Quarkus Lab
+description: Lab chapter for Red Hat's Developer Experience (DevEx) workshop.
+img: /assets/img/3.jpg
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.

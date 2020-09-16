@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Dentour
+description: A virtual reality tour of a dentist that is aimed at pre-teens/young adults between the ages of 12-16.
 img: /assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 ---
 
