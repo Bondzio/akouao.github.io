@@ -35,7 +35,7 @@ medium_username: # your Medium username
 contact_note: >
   Get in touch
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-178206729-1
 
 # Pagination
 pagination:
@@ -85,7 +85,7 @@ plugins:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_katex:             true
 enable_mansory:           true
 enable_progressbar:       true
