@@ -41,7 +41,7 @@ linkedin_username: allyson-kouao
 medium_username: # your Medium username
 
 contact_note: >
-  Get in touch.
+  Get in touch
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -56,9 +56,6 @@ permalink: /blog/:year/:title/
 # Pagination
 pagination:
   enabled: true
-
-# Comments
-disqus_shortname: al-folio # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
