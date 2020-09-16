@@ -12,7 +12,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Recent Applied Software Engineering Graduate with special interests in Cyber Security, DevOps and Automation.
 
-url:  https://akouao.github.io
+base_url: # nothing
+url: # nothing
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
