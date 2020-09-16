@@ -10,7 +10,7 @@ email: ase.kouao@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   //
 footer_text: >
-  Recent Applied Software Engineering Graduate with special interests in Cyber Security, DevOps and Automation.
+  Recent Software Engineering Graduate with special interests in Cyber Security, DevOps and Automation.
 
 base_url: # nothing
 url: # nothing
@@ -46,14 +46,6 @@ contact_note: >
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-
-blog_name: CV  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
-
 # Pagination
 pagination:
   enabled: true
@@ -63,16 +55,9 @@ pagination:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
-
-news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
