@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv
 title: Curriculum Vitae
-description: Allyson Kouao | ase.kouao@gmail.com
+description: <a href="/assets/pdf/testing.pdf" target="_blank" title="pdf"><i class="fa fa-download" aria-hidden="true"></i> Download PDF Version</a>
 nav: true
 ---
 
@@ -28,7 +28,7 @@ I have demonstrated my strong communication and personal skills in my experience
 
 The graduate programme is focused on training and development. To further my technical knowledge, I gained a certification in Red Hat Certified Systems Administrator (RHCSA). Soft skills development includes presentation delivery, sales techniques and whiteboarding. I have demonstrated my aptitude for product management through my thorough and intricate implementation of Graduate Starter Packs, designed to close the knowledge gap and accelerate new hires who are working from home.
 
-Outside of my role I sought to further engage black associates, and founded a regional Diversity and Inclusion (D&I) community called Blacks United in Leadership and Diversity (B.U.I.L.D.) UK & Ireland. I co-facilitated a panel session with over 150 attendees; thi allowed me to exhibit and enhance my virtual presence. The mission of the community is to identify, empower and further the diversity in talent of black associates in the UK & Ireland.
+Outside of my role, I founded a regional Diversity and Inclusion (D&I) community called B.U.I.L.D. UK & Ireland to engage black associates and allies. I co-facilitated a panel session with over 150 attendees; this allowed me to exhibit and enhance my virtual presence. The mission of the community is to identify, empower and further the diversity in talent of black associates in the UK & Ireland.
 
 <strong>Agile / DevOps</strong>
 
@@ -85,7 +85,10 @@ Outside of my role I sought to further engage black associates, and founded a re
 English (Native or bilingual proficiency)<br>
 French (Limited working proficiency)
 
+<br>
 <em>References available upon request.</em>
+
+<a href="/assets/pdf/testing.pdf" target="_blank" title="pdf"><i class="fa fa-download" aria-hidden="true"></i> Download PDF Version</a>
 
 
 
