@@ -22,7 +22,7 @@ nav: true
 
 <strong>September 2019 - Present :</strong> Graduate Solution Architect - <em>Red Hat</em>
 
-Since starting at Red Hat, I contributed to and delivered a range of workshops for customers, partners and associates on several topics including OpenShift and Kubernetes, Enterprise vs Kubernetes, and agile methodologies.
+Since starting at Red Hat, I have contributed to and delivered a range of workshops for customers, partners and associates on several topics including OpenShift and Kubernetes, Enterprise vs Kubernetes, and agile methodologies.
 
 I have demonstrated my strong communication and personal skills in my experience of being a Partner Account Manager. I assisted and engaged the respective partner to further strengthen their relationship with Red Hat and align with Red Hat's strategy.
 
