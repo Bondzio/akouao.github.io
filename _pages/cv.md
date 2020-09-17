@@ -88,9 +88,6 @@ French (Limited working proficiency)
 <br>
 <em>References available upon request.</em>
 
-<a href="/assets/pdf/testing.pdf" target="_blank" title="pdf"><i class="fa fa-download" aria-hidden="true"></i> Download PDF Version</a>
-
-
 
 
 
