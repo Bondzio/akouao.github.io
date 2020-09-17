@@ -14,4 +14,4 @@ I am a Junior Solution Architect & Developer Advocate at Red Hat with interests 
 
 I have experience in developing web applications, being a trusted advisor to a company partner, and presenting at region-wide events.
 
-Please take a look at some of my ongoing and past projects.
+Please take a look at some of my past and ongoing projects.

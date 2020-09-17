@@ -8,7 +8,7 @@ nav: true
 
 #### <strong>Professional Summary<strong>
 
-<p>I am a young professional and a recent graduate with a BSc Applied Software Engineering degree. I have a special interest in Cyber Security, DevOps and Automation. I am adaptable, keen and rearing to learn and utilise new technologies. As demonstrated by my higher education background, I am capable or working under pressure and consistently producing results of high quality. Excelling in environments where hard work and dedication are highly valued.</p>
+<p>I am a young professional and a recent graduate with a BSc Applied Software Engineering degree. I have a special interest in Cyber Security, DevOps and Automation. I am adaptable, keen and rearing to learn and utilise new technologies. As demonstrated by my higher education background, I am capable or working under pressure and consistently producing results of high quality. I excel in environments where hard work and dedication are highly valued.</p>
 
 #### <strong>Education</strong>
 
