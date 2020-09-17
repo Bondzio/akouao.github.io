@@ -89,5 +89,8 @@ French (Limited working proficiency)
 <em>References available upon request.</em>
 
 
+<a href="/assets/pdf/allyson_kouao_cv.pdf" target="_blank" title="pdf"><i class="fa fa-download" aria-hidden="true"></i></a>
+
+
 
 
