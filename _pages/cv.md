@@ -2,17 +2,17 @@
 layout: page
 permalink: /cv
 title: Curriculum Vitae
-description: <a href="/assets/pdf/testing.pdf" target="_blank" title="pdf"><i class="fa fa-download" aria-hidden="true"></i> Download PDF Version</a>
+description: <a href="/assets/pdf/allyson_kouao_cv.pdf" target="_blank" title="pdf"><i class="fa fa-download" aria-hidden="true"></i> Download PDF Version</a>
 nav: true
 ---
 
 #### <strong>Professional Summary<strong>
 
-<p>I am a young professional and a recent graduate with a BSc Software Engineering degree. I have a special interest in Cyber Security, DevOps and Automation. I am adaptable, keen and rearing to learn and utilise new technologies. As demonstrated by my higher education background, I am capable or working under pressure and consistently producing results of high quality. Excelling in environments where hard work and dedication are highly valued.</p>
+<p>I am a young professional and a recent graduate with a BSc Applied Software Engineering degree. I have a special interest in Cyber Security, DevOps and Automation. I am adaptable, keen and rearing to learn and utilise new technologies. As demonstrated by my higher education background, I am capable or working under pressure and consistently producing results of high quality. Excelling in environments where hard work and dedication are highly valued.</p>
 
 #### <strong>Education</strong>
 
-<strong> BSc Software Engineering (2:1) </strong> - July 2019 - Cardiff University, Wales (UK) <br>
+<strong> BSc Applied Software Engineering (2:1) </strong> - July 2019 - Cardiff University, Wales (UK) <br>
 
 <strong> IT (A), Sociology (B), English Literature (B) </strong> - August 2016 - Lady Margaret School, London (UK) <br>
 
@@ -22,7 +22,7 @@ nav: true
 
 <strong>September 2019 - Present :</strong> Graduate Solution Architect - <em>Red Hat</em>
 
-Since starting at Red Hat, I contributed to and have helped deliver a range of workshops for customers, partners and associates on several topics, including OpenShift and Kubernetes, Enterprise vs Kubernetes, and agile methodologies.
+Since starting at Red Hat, I contributed to and delivered a range of workshops for customers, partners and associates on several topics including OpenShift and Kubernetes, Enterprise vs Kubernetes, and agile methodologies.
 
 I have demonstrated my strong communication and personal skills in my experience of being a Partner Account Manager. I assisted and engaged the respective partner to further strengthen their relationship with Red Hat and align with Red Hat's strategy.
 
@@ -42,8 +42,8 @@ Outside of my role, I founded a regional Diversity and Inclusion (D&I) community
 
 <strong>Cyber Security</strong>
 
-- Performed penetration testing using Ubuntu on an insecure web application to expose vulnerabiltiies. Following this, I implemented security countermeasures in accordance to the ISO 27001 and 27002 standards.
-- Independent comprehensive research on how SQL injection vulnerabiltiies can be exploited with the use of the SQLmap penetration tool.
+- Performed penetration testing using Ubuntu on an insecure web application to expose vulnerabilities. Following this, I implemented security countermeasures in accordance with the ISO 27001 and 27002 standards.
+- Independent comprehensive research on how SQL injection vulnerabilities can be exploited with the use of the SQLmap penetration tool.
 
 <strong>JavaScript</strong>
 
@@ -52,7 +52,7 @@ Outside of my role, I founded a regional Diversity and Inclusion (D&I) community
 
 <strong>Android</strong>
 
-- University Project to develop an Android application to display detail information using Bluetooth low energy to track when users are near key spots around Cardiff University.
+- University Project to develop an Android application to display detailed information using Bluetooth low energy to track when users are near key spots around Cardiff University.
 
 <strong>React</strong>
 - University project to develop a virtual reality tour that desensitizes the dental appointment experience for phobia sufferers. Using a tech stack of React VR and LiveTour Library
@@ -61,7 +61,7 @@ Outside of my role, I founded a regional Diversity and Inclusion (D&I) community
 <strong>STEM Ambassador</strong>
 
 - Assisted with University Open Days.
-- Assisted in STEM events such as GreenFoot and LEGO Minstorms to engage children in local primary schools.
+- Assisted in STEM events such as GreenFoot and LEGO Mindstorms to engage children in local primary schools.
 
 #### <strong>Key Skills</strong>
 
